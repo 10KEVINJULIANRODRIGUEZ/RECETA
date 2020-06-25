@@ -23,4 +23,4 @@
 
 •	10g de mantequilla    
   
-  <span style="Color:Blue;Font-Family:Time New Roman;Font-Size:14;">COMO HACER ARROZ CON LECHE CREMOSO FACIL:</span>
+  <span style="Color:Blue;Font-Family:Time New Roman;Font-Size:14;">___COMO HACER ARROZ CON LECHE CREMOSO FACIL:___</span>
