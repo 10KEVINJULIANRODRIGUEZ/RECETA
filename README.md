@@ -9,10 +9,16 @@
   
   <span style="Color:Blue;Font-Size:14;Font-Family:Time New Roman;">___INGREDIENTES PARA 4 PERSONAS:___</span>
   
-  •	100g de arroz redondo
-•	1l de leche entera
-•	1 trozo de cáscara de limón y de naranja
-•	1 rama de canela
-•	canela en polvo
-•	70g de azúcar
+  •	100g de arroz redondo  
+  
+•	1l de leche entera   
+
+•	1 trozo de cáscara de limón y de naranja   
+
+•	1 rama de canela   
+
+•	canela en polvo   
+
+•	70g de azúcar   
+
 •	10g de mantequilla
