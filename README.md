@@ -8,5 +8,6 @@
 
   
   <span style="Color:Blue;Font-Size:14;Font-Family:Time New Roman;">___INGREDIENTES PARA 4 PERSONAS:___</span>  
-    <span sttyle="Color:Black;Font-Family:Time New Roman;Font-Size:12;">•	100g de arroz redondo</spa>n
+    <span sttyle="Color:Black;Font-Family:Time New Roman;Font-Size:12;">•	100g de arroz redondo</spa>n   
+    
    <span sttyle="Color:Black;Font-Family:Time New Roman;Font-Size:12;">•	1l de leche entera
