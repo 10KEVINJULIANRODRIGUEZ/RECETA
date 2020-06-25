@@ -2,5 +2,6 @@
 
 ![imagen montaje](arroz.jpg)
 
-<span style="Color:Black;Font-Size:12;Font-Family:Time New Roman;">El arroz con leche es el postre por antonomasia de los hogares de toda España y América latina. Es muy fácil de hacer, y con pocos ingredientes. Siguiendo la técnica adecuada, además, lograremos que nos quede mucho más cremoso. Para ello, es importante las cantidades y sus proporciones. Datos que veremos a continuación. 
+<span style="Color:Black;Font-Size:12;Font-Family:Time New Roman;">El arroz con leche es el postre por antonomasia de los hogares de toda España y América latina. Es muy fácil de hacer, y con pocos ingredientes. Siguiendo la técnica adecuada, además, lograremos que nos quede mucho más cremoso. Para ello, es importante las cantidades y sus proporciones. Datos que veremos a continuación.   
+  
 Así que, para preparar este popular arroz con leche casero, necesitaremos: </span>
